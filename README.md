@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro Repositório Versionado.
 
-Teste de auteração online.
+Teste de alteração online.
